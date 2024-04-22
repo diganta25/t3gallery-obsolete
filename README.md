@@ -2,8 +2,8 @@
 
 ## TDOD
 
-- [ ] Make it Deploy (vercel)
-- [ ] scaffold basic ui with mock data
+- [x] Make it Deploy (vercel)
+- [x] scaffold basic ui with mock data
 - [ ] Actually set up a database (vercel postgres)
 - [ ] Attach database to ui
 - [ ] Add authentication (w/ clerk)
