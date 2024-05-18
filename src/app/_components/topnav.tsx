@@ -19,6 +19,7 @@ export function TopNav() {
         </SignedOut>
         <SignedIn>
           <UploadButton
+            className="max-w-48"
             endpoint="imageUploader"
             onClientUploadComplete={() => {
               router.refresh();
