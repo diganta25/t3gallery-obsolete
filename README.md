@@ -1,4 +1,4 @@
-# T3 Gallery
+# T3 Gallery - W.I.P
 
 ## TDOD
 
@@ -16,3 +16,5 @@
 - [ ] Delete button (w/ Server Actions)
 - [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstash)
+
+## https://t3gallery-eta-self.vercel.app/
